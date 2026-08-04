@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Nour Aldeen Tofi — AI Automation Engineer and Senior Frontend Developer"/>
+<img src="/banner.svg" width="100%" alt="Nour Aldeen Tofi — AI Automation Engineer and Senior Frontend Developer"/>
 
 <p>
   <a href="https://nouraldeentofi.com"><img src="./assets/web.svg" height="38" alt="Website"/></a>
