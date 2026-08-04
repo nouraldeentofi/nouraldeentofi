@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/banner.svg" width="100%" alt="Nour Aldeen Tofi — AI Automation Engineer and Senior Frontend Developer"/>
+<img src="./assets/banner.svg" width="100%" alt="Nour Aldeen Tofi — AI Automation Engineer and Senior Frontend Developer"/>
 
 <p>
   <a href="https://nouraldeentofi.com"><img src="./assets/web.svg" height="38" alt="Website"/></a>
@@ -13,23 +13,23 @@
 
 </div>
 
-Software Engineering Supervisor by day, automation engineer by obsession. I ship production **n8n + LLM** pipelines that turn messy Arabic paperwork into clean, structured data — timed with Saudi Arabia's **ZATCA** e-invoicing expansion — and I build the React interfaces that make them usable.
+I build AI pipelines that read Arabic invoices and documents — and the React interfaces people use on top of them. In production, timed with Saudi Arabia's **ZATCA** e-invoicing expansion.
 
-Based in Al Khobar, Saudi Arabia. Arabic (native) · English (professional).
+Al Khobar, Saudi Arabia. Arabic and English.
 
 ### Building right now
 
-- **MCP servers** — exposing real data and profiles as callable tools for AI models
-- **GPT-4o Vision pipelines** for Arabic invoices and documents
-- **Cost-optimized LLM routing** — one pipeline's GPT bill dropped 75% from a single IF node
+- **MCP servers** — real data and profiles exposed as callable tools for AI models
+- **GPT-4o Vision extraction** for Arabic invoices, running in production
+- **LLM cost routing** — cut one pipeline's GPT bill by 75% with a single IF node
 - **React 19 + TypeScript** interfaces on top of all of it
 
 ### Ask me about
 
-- Getting an LLM to read Arabic documents reliably (the hard part is not the model)
-- n8n in production — retries, idempotency, cost control, and when to stop using it
-- Structuring a React 19 + TypeScript codebase a team can actually maintain
-- Running a small engineering team while still shipping code yourself
+- Getting an LLM to read Arabic documents reliably. The model is not the hard part.
+- n8n in production: retries, idempotency, cost control, and when to stop using it
+- Structuring a React 19 + TypeScript codebase a team can maintain
+- Running a small engineering team while still writing code
 
 <img src="./assets/rule.svg" width="100%" alt=""/>
 
@@ -37,17 +37,17 @@ Based in Al Khobar, Saudi Arabia. Arabic (native) · English (professional).
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **Receipt Scanner** | Bilingual (AR/EN) AI invoice-management SaaS. Photo → approved, structured data — with fraud checks and zero manual entry. | `n8n` `GPT-4o Vision` `React 19` `Laravel` |
+| **Receipt Scanner** | Bilingual (AR/EN) AI invoice-management SaaS. Photo → approved, structured data. Fraud checks, zero manual entry. | `n8n` `GPT-4o Vision` `React 19` `Laravel` |
 | **Business Card Extractor** | Photo → AI → structured contact → saved to your phone in one tap. No backend. | `React` `n8n` |
 | **MCP Servers** | Real data and profiles exposed as callable tools for AI models. | `MCP` `Node.js` |
 | **[GoldenTag](https://play.google.com/store/apps/details?id=com.leadbridge.golden_tag)** | Jewelry store management app — inventory, barcode scanning, live FX rates, sales logging. | `Play Store` `Delivery` |
 | **[Portfolio Gallery](https://nourtofi.github.io/portfolio-gallery/)** | 20 distinct award-tier web designs. | `Three.js` `Canvas` `CSS` |
 
-> Receipt Scanner live demo available on request — [DM me on LinkedIn](https://www.linkedin.com/in/nouraldeentofi).
+> Receipt Scanner live demo on request — [DM me on LinkedIn](https://www.linkedin.com/in/nouraldeentofi).
 
 ### The website experiment
 
-My portfolio is built for humans **and** AI agents — every fact on it is machine-readable.
+My portfolio is built for humans **and** AI agents. Every fact on it is machine-readable.
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Ask ChatGPT or Claude *"Who is Nour Aldeen Tofi?"* and see what happens.
 
 </div>
 
-Backend partnership on Laravel work with [Haitham Zedan](https://www.linkedin.com/in/haitham-zedan-391668221/).
+Laravel backend work with [Haitham Zedan](https://www.linkedin.com/in/haitham-zedan-391668221/).
 
 ### Contribution activity
 
