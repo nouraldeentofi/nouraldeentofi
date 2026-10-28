@@ -23,7 +23,7 @@ Al Khobar, Saudi Arabia. Arabic and English.
 
 ### Building right now
 
-- **A second CRM** — the company platform I built at DFS led a second company to ask our team for its own custom CRM. React + TypeScript, Arabic/English, I lead the frontend and delivery
+- **Two custom CRMs** — one for DFS, where I built every page of the CRM and its quotation app, and one for Water Systems (WAIS), who asked our team for their own after seeing ours. React + TypeScript, Arabic/English, I lead the frontend and delivery on both
 - **Nour Motion Studio** — a motion-graphics video maker I built with Claude Code. It renders MP4 in your browser: no server, no API key
 - **Claude as a manager** — a local Qwen 35B model writes code on my laptop, Claude plans and reviews it
 - **My own Claude skills** — plus open-source ones from GitHub (`obra/superpowers`, `ponytail`, `anthropics/skills`) for planning, lean code and review
@@ -42,7 +42,8 @@ Al Khobar, Saudi Arabia. Arabic and English.
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **[Smart Scanner](https://receipt.nexleadtech.com)** | Bilingual AR/EN invoice SaaS. I built the full frontend (3 role-based apps) and the n8n AI engine: 70+ fields per invoice in about 10 seconds, fraud and duplicate checks, ~75% lower AI cost by sending text PDFs to a text model instead of vision. | `React 19` `TypeScript` `n8n` `GPT-4.1 Vision` |
-| **DFS Dashboard** | The CRM & quotation platform my company runs on, plus its quotation app. Quotes went from a manual process to under 2 minutes, used by all 15 employees. | `React 19` `Vite` `Tailwind v4` `TanStack Query` |
+| **DFS Custom CRM** | The custom CRM my company runs on, plus its quotation app. I built every page: enquiry pipeline, quotations, projects, roles and sales analytics. Quotes went from a manual process to under 2 minutes, used by all 15 employees. | `React 19` `Vite` `Tailwind v4` `TanStack Query` |
+| **WAIS Custom CRM** | A second custom CRM, for Water Systems, after they saw the DFS one at work. Type-checked Arabic/English and zero-downtime releases. | `React` `TypeScript` `Tailwind v4` |
 | **Universal Web Scraper** | Paste one URL, get the whole site as a categorized spreadsheet. Runs for days unattended. | `n8n` `OpenAI` `Google Sheets` |
 | **[CV Screener](https://cv-screener.nouraldeentofi.com)** | Scores each CV per criterion with quoted evidence; the final ranking is computed in code, not by the model. | `Next.js` `n8n` `OpenAI` |
 | **[Nour Motion Studio](https://nouraldeentofi.com/motion-studio/)** | 318 templates × 217 backgrounds × 349 transitions × 85 camera moves, exported to MP4 on your own device. | `JavaScript` `Canvas` `WebCodecs` |
