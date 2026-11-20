@@ -67,7 +67,7 @@ Ask ChatGPT or Claude *"Who is Nour Aldeen Tofi?"* and see what happens.
 - **Data, testing and delivery:** Node.js · Prisma · MySQL · Vitest · Playwright · GitHub Actions · Docker · Cloudflare
 - **At university:** Python (pandas, TensorFlow/Keras)
 
-I use Claude Code every day to plan, build, test and review. On Smart Scanner, a teammate built the Laravel backend.
+I use Claude Code every day to plan, build, test and review.
 
 ### Contribution activity
 
